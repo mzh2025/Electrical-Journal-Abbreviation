@@ -1,6 +1,6 @@
 # Electrical-Journal-Abbreviation
 
-电气工程常用期刊名称与缩写对照表。本表基于大论文参考文献常用格式整理，主要参考 **IEEE Editorial Style** 与 **ISO 4** 标准。
+从 Google Scholar 直接复制 BibTeX，它的期刊名往往是全称且格式不一。电气工程常用期刊名称与缩写对照表。本表基于大论文参考文献常用格式整理，主要参考 **IEEE Editorial Style** 与 **ISO 4** 标准。
 
 
 
